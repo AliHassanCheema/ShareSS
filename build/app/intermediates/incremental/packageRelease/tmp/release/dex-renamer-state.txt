@@ -1,0 +1,4 @@
+#Fri Feb 17 23:45:38 PKT 2023
+base.0=/Users/chi/Desktop/CHI/Projects/practices/sharess/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

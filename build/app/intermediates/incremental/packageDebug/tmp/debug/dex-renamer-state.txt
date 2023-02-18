@@ -1,0 +1,4 @@
+#Sat Feb 18 16:19:16 PKT 2023
+base.0=/Users/chi/Desktop/CHI/Projects/practices/sharess/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
