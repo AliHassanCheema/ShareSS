@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'sharess/sharess_vu.dart';
+import 'downloader/downloader_vu.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const ShareSSScreen(),
+      home: const DownloaderView(),
     );
   }
 }

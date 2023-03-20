@@ -44,6 +44,12 @@
       "languageVersion": "2.14"
     },
     {
+      "name": "csslib",
+      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/csslib-0.17.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "cupertino_icons",
       "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.5",
       "packageUri": "lib/",
@@ -71,7 +77,7 @@
       "name": "flutter",
       "rootUri": "file:///Users/chi/Desktop/CHI/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.17"
     },
     {
       "name": "flutter_lints",
@@ -83,13 +89,19 @@
       "name": "flutter_test",
       "rootUri": "file:///Users/chi/Desktop/CHI/flutter/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.17"
     },
     {
       "name": "flutter_web_plugins",
       "rootUri": "file:///Users/chi/Desktop/CHI/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "freezed_annotation",
+      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/freezed_annotation-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
     },
     {
       "name": "get_it",
@@ -98,10 +110,34 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "js",
-      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/js-0.6.6",
+      "name": "html",
+      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/html-0.15.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/http-0.13.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/js-0.6.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/json_annotation-4.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
     },
     {
       "name": "lints",
@@ -111,7 +147,7 @@
     },
     {
       "name": "matcher",
-      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/matcher-0.12.14",
+      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/matcher-0.12.13",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -141,7 +177,7 @@
     },
     {
       "name": "path",
-      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/path-1.8.3",
+      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/path-1.8.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -180,6 +216,12 @@
       "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/path_provider_windows-2.1.3",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/petitparser-5.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
     },
     {
       "name": "platform",
@@ -267,7 +309,7 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/test_api-0.4.17",
+      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/test_api-0.4.16",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -332,13 +374,25 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "xml",
+      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/xml-6.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "youtube_explode_dart",
+      "rootUri": "file:///Users/chi/.pub-cache/hosted/pub.dev/youtube_explode_dart-1.12.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
       "name": "sharess",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-02-17T18:13:44.926273Z",
+  "generated": "2023-03-20T10:50:15.765279Z",
   "generator": "pub",
-  "generatorVersion": "3.0.0-63.0.dev"
+  "generatorVersion": "2.19.3"
 }
